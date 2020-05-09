@@ -1,4 +1,4 @@
 # hello-world
-test hello
+test 666
 
 I want to be a technologist,I`m zhangxn.
